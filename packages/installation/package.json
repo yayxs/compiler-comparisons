@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "swc ./main.js -o output.js"
+  },
+  "devDependencies": {
+    "@swc/cli": "0.4.1-nightly.20240914",
+    "@swc/core": "^1.7.28"
+  }
+}
